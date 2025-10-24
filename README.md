@@ -2,7 +2,7 @@ Refit-Home E-Commerce Store
 A modern, responsive e-commerce website for selling second-hand clothing with an integrated admin panel for inventory and order management.
 
 🌟 Features
-Store Frontend (index.html)
+Store Frontend (`index.html`)
 Modern Luxury Design: Elegant UI with premium aesthetics
 
 Product Catalog: Filterable by categories (All, Jeans, Shirt, Other)
@@ -15,7 +15,7 @@ Add to Cart Animations: Visual feedback with flying cart animation
 
 Sold Out Management: Automatic product status tracking
 
-Checkout System (checkout.html)
+Checkout System (`checkout.html`)
 Customer Information Form: Name, phone, address collection
 
 Delivery Options: J&T Express and Virak Bunthan
@@ -28,7 +28,7 @@ Order Processing: Automatic inventory updates
 
 Telegram Notifications: Order alerts to admin
 
-Admin Panel (admin.html)
+Admin Panel (`admin.html`)
 Password Protected: Secure admin access
 
 Product Management: Add, edit, mark as sold out
@@ -57,8 +57,9 @@ Icons: Emoji-based icons
 Notifications: Telegram Bot API integration
 
 📁 Project Structure
-``
-refit-home/
+
+
+`refit-home/
 ├── index.html              # Main store page
 ├── checkout.html           # Checkout process
 ├── admin.html             # Admin dashboard
@@ -69,27 +70,26 @@ refit-home/
 └── js/
     ├── main.js            # Store functionality
     ├── checkout.js        # Checkout process
-    └── admin.js           # Admin panel functionality
-``
+    └── admin.js           # Admin panel functionality`
 🚀 Quick Start
 Clone or Download the project files
 
-Open index.html in a web browser
+Open `index.html` in a web browser
 
 Start Managing Products through the admin panel
 
 Accessing Admin Panel
 Multiple methods available:
 
-Keyboard Shortcut: Ctrl + Shift + A
+Keyboard Shortcut: `Ctrl + Shift + A`
 
 Logo Triple Click: Click store logo 3 times quickly
 
 Hidden Corner: Click top-left corner of the page
 
-Direct Access: Navigate to admin.html
+Direct Access: Navigate to `admin.html`
 
-Default Admin Password: 2394
+Default Admin Password: `2394`
 
 💼 Core Functionality
 Product Management
@@ -132,11 +132,11 @@ Loading States: Visual feedback for all actions
 
 🔧 Configuration
 Telegram Integration
-Update in admin.html Settings:
+Update in `admin.html` Settings:
 
 javascript
-Telegram Bot Token: "YOUR_BOT_TOKEN"
-Telegram Chat ID: "YOUR_CHAT_ID"
+`Telegram Bot Token: "YOUR_BOT_TOKEN"
+Telegram Chat ID: "YOUR_CHAT_ID"`
 Store Settings
 Customizable in Admin Panel:
 
