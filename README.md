@@ -60,17 +60,18 @@ Notifications: Telegram Bot API integration
 
 
 `refit-home/
-├── index.html              # Main store page
-├── checkout.html           # Checkout process
-├── admin.html             # Admin dashboard
+.
+├── index.html
+├── checkout.html
+├── admin.html
 ├── css/
-│   ├── style.css          # Main store styles
-│   ├── checkout.css       # Checkout page styles
-│   └── admin.css          # Admin panel styles
+│   ├── style.css
+│   ├── checkout.css
+│   └── admin.css
 └── js/
-    ├── main.js            # Store functionality
-    ├── checkout.js        # Checkout process
-    └── admin.js           # Admin panel functionality`
+    ├── main.js
+    ├── checkout.js
+    └── admin.js`
 🚀 Quick Start
 Clone or Download the project files
 
