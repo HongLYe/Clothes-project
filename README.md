@@ -59,9 +59,9 @@ Notifications: Telegram Bot API integration
 📁 Project Structure
 
 
-`refit-home/
-├── index.html              # Main store page
-├── checkout.html           # Checkout process
+`refit-home/`
+`├── index.html              # Main store page`
+`├── checkout.html           # Checkout process`
 ├── admin.html             # Admin dashboard
 ├── css/
 │   ├── style.css          # Main store styles
