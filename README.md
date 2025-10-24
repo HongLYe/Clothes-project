@@ -57,7 +57,7 @@ Icons: Emoji-based icons
 Notifications: Telegram Bot API integration
 
 📁 Project Structure
-text
+`
 refit-home/
 ├── index.html              # Main store page
 ├── checkout.html           # Checkout process
@@ -70,6 +70,7 @@ refit-home/
     ├── main.js            # Store functionality
     ├── checkout.js        # Checkout process
     └── admin.js           # Admin panel functionality
+`
 🚀 Quick Start
 Clone or Download the project files
 
